@@ -9,7 +9,7 @@ esta activo o no, operadora y zona horaria que pertenece. Para poner ejecutarlo 
 
 ## Instalación
 
-Clonar el repositorio y cambiar los permisos
+Clonar el repositorio, instalar dependencias y cambiar los permisos
 
 ```markdown
 pip install phonenumbers
