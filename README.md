@@ -13,12 +13,8 @@ Clonar el repositorio, instalar dependencias y cambiar los permisos
 
 ```markdown
 pip install phonenumbers
-
 git clone https://github.com/Alcatraz2033/Phone-dox.git
-
 cd Phone-dox
-
 chmod +x phone.py
-
 python3 phone.py -u <(Código del país) + Numero de teléfono>
 ```
