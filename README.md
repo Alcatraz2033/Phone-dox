@@ -12,8 +12,8 @@ esta activo o no, operadora y zona horaria que pertenece. Para poner ejecutarlo 
 Clonar el repositorio, instalar dependencias y cambiar los permisos
 
 ```sh
-pip install -r requirements.txt
 git clone https://github.com/Alcatraz2033/Phone-dox.git
 cd Phone-dox
+pip install -r requirements.txt
 python3 phone.py -u <(Código del país) + Numero de teléfono>
 ```
